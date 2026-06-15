@@ -19,3 +19,22 @@ header {
         font-size: 1.25em;
         padding: 20px;
  }
+
+ .mainstyle{
+    background-color: #f5f5f5;
+        color: rgb(28, 28, 28);
+        font-size: 1.25em;
+        padding: 20px;
+ }
+
+ .card {
+    margin-top: 5%;
+    margin-left: 4%;
+     max-width: 90%;
+     background-color: #ffffff;
+     border-radius: 24px;
+     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+     overflow: hidden;
+     font-family: sans-serif;
+     transition: transform 0.2s ease, box-shadow 0.4s ease;
+ }
